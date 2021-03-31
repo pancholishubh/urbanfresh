@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UrbanFresh</string>
+    <string name="ok">Ok</string>
+
+
+    <!--Fonts-->
+    <string name="font_bold">font/barlow_bold.ttf</string>
+    <string name="font_regular">font/barlow_regular.ttf</string>
+
+    <string name="dialog_alert_heading">Alert</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="error">Error</string>
+    <string name="try_again">Try again</string>
+
+    <string name="https_400_error" translatable="false">Bad Request</string>
+    <string name="http_401_error" translatable="false">Unauthorized access</string>
+    <string name="http_403_error" translatable="false">Forbidden or denied access</string>
+    <string name="http_404_error" translatable="false">Resource Not Found</string>
+    <string name="http_500_error" translatable="false">Internal Server Error</string>
+    <string name="http_some_other_error" translatable="false">Some error occurred! Please try again later.</string>
+    <string name="shop">Shop</string>
+    <string name="explore">Explore</string>
+    <string name="cart">Cart</string>
+    <string name="favorites">Favorites</string>
+    <string name="account">Account</string>
+
+</resources>

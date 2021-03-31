@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#2AB32A</color>
+    <color name="colorPrimaryDark">#008000</color>
+    <color name="colorAccent">#38A638</color>
+
+
+    <color name="grayish_pink">#cecece</color>
+
+
+    <color name="colorOffWhite">#F5F7FF</color>
+
+    <color name="colorRed">#FF0000</color>
+
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorGrey">#626262</color>
+
+    <color name="colorLightGrey">#7e7e7e</color>
+
+    <color name="colorDivider">#e1e1e1</color>
+
+    <color name="colorTransparent">#00000000</color>
+
+
+    <color name="colorGreyButton">#B2B2B2</color>
+
+
+    <color name="editText_grey">#E4E4E4</color>
+
+
+    // previous colors
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="theme_color_1">#D5E5F2</color>
+    <color name="theme_text_hint_color">#848484</color>
+    <color name="theme_text_fill_color">@color/colorBlack</color>
+    <color name="vibrant_green">#3EB75E</color>
+
+    //ImagePicker
+
+    <color name="black_transparent">#8C000000</color>
+    <color name="clinical_interventions">#E3E3E3</color>
+    <color name="purple">#222B7D</color>
+    <color name="add_bg">#F2F2F2</color>
+    <color name="accountInfoColor">#F4FDFF</color>
+    <color name="reset_pwd_color">#FFF4F4</color>
+    <color name="white_transparent">#00000000</color>
+    <color name="summary_bg">#F8F8F8</color>
+    <color name="black_transparent_light">#40000000</color>
+    <color name="librayPhaseBgColor">#EDEDED</color>
+
+    <color name="textHintColor">#818181</color>
+    <color name="titleColor">#454545</color>
+    <color name="appRed">#ec2027</color>
+    <color name="copyRightColor">#7a7272</color>
+    <color name="pinkish_gray">#cecece</color>
+    <color name="devide_line">#dcdcdc</color>
+    <color name="chat_time_color">#acacac</color>
+    <color name="show_text_color">#797272</color>
+    <color name="dont_receive_color">#a6a5a5</color>
+    <color name="code_border_color">#cdcdcd</color>
+    <color name="appointment_gray">#a8a2a2</color>
+    <color name="confirm_green">#0a8a07</color>
+    <color name="cahtHintColor">#7a7a7a</color>
+    <color name="forwardArrowColor">#756f6f</color>
+    <color name="buttonColor">#74c5f2</color>
+    <color name="serachColor">#B2B2B2</color>
+    <color name="clinicalLightColor">#F9FCFE</color>
+    <color name="preTitleColor">#314292</color>
+    <color name="preDateColor">#989797</color>
+    <color name="preStatusColor">#EABC5F</color>
+    <color name="sendChatBgColor">#FCE7E8</color>
+    <color name="devideLineColor">#cac3c3</color>
+    <color name="appointDateColor">#5E5858</color>
+    <color name="cnf_color">#51A5FF</color>
+    <color name="dialog_light_grey">#F4F4F4</color>
+    <color name="summaryViewColor">#45C143</color>
+    <color name="grayCircleColor">#787878</color>
+    <color name="linkColor">#1E3AF4</color>
+    <color name="menuColorGray">#797979</color>
+</resources>

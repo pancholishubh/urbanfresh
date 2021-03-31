@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_shop"
+        android:checked="true"
+        android:icon="@mipmap/vector"
+        android:title="@string/shop" />
+
+    <item
+        android:id="@+id/navigation_explore"
+        android:checked="false"
+        android:icon="@mipmap/search"
+        android:title="@string/explore" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:checked="false"
+        android:icon="@mipmap/vector"
+        android:title="@string/cart" />
+
+    <item
+        android:id="@+id/navigation_fav"
+        android:checked="false"
+        android:icon="@mipmap/fav"
+        android:title="@string/favorites" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:checked="false"
+        android:icon="@mipmap/profile_botttom"
+        android:title="@string/account" />
+</menu>
